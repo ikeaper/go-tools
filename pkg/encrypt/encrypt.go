@@ -7,6 +7,11 @@ func Encode(code string) string {
 }
 
 // 解密
-func Decode (code string) string  {
+func Decode(code string) string {
 	return code
+}
+
+// 生产uuid
+func GenerteUUid() {
+
 }
