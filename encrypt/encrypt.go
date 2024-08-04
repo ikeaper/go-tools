@@ -1,4 +1,4 @@
-package crypt
+package encrypt
 
 // 加密
 func Encode(code string) string {
